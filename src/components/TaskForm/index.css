@@ -1,0 +1,125 @@
+.maincontainer {
+  margin: 10px;
+  background-color: #bbe2fa;
+  display: flex;
+  flex-direction: row;
+}
+.outercontainer {
+  background-color: #bbe2fa;
+}
+.formcontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 10px;
+}
+.labelel {
+  font-size: 15px;
+  color: #51829b;
+  font-family: roboto;
+  padding: 10px;
+  margin: 5px;
+}
+.inputel {
+  font-family: roboto;
+  padding: 10px;
+  border-color: #ffeeb7;
+  border-style: ridge;
+  width: 300px;
+}
+.buttonel {
+  background-color: #365359;
+  color: azure;
+  padding: 10px;
+  margin-left: 15px;
+  border-radius: 10px;
+}
+
+.header {
+  font-size: 40px;
+  text-align: center;
+  color: #cc2323;
+  font-weight: 600;
+  font-family: roboto;
+}
+
+.contacts-table {
+  list-style-type: none;
+  border-style: double;
+  display: flex;
+  flex-direction: column;
+  width: 520px;
+  padding: 2px;
+}
+
+.dropdowncontainer {
+  display: flex;
+  border-style: dashed;
+  margin: 10px;
+  padding: 10px;
+  border-color: #bacd92;
+  margin-left: 300px;
+}
+.barcontainer {
+  border-style: dashed;
+  margin: 10px;
+  padding: 10px;
+  border-color: #bacd92;
+  margin-left: 50px;
+  margin-top: 50px;
+  width: auto;
+}
+.assigntask {
+  font-family: roboto;
+  color: #75a47f;
+  font-size: 25px;
+  padding: 10px;
+}
+
+.division {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.buttonscontainer {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  margin: 10px;
+  border-style: dashed;
+  border-color: #b5c18e;
+  margin-left: 300px;
+}
+
+.button1 {
+  margin: 5px;
+  background-color: #9bb0c1;
+  color: white;
+  border-radius: 8px;
+  padding: 5px;
+  border-color: #9bb0c1;
+  font-family: roboto;
+  font-size: 15px;
+}
+.button2 {
+  margin: 5px;
+  background-color: #9cafaa;
+  color: white;
+  border-radius: 8px;
+  padding: 5px;
+  border-color: #9cafaa;
+  font-family: roboto;
+  font-size: 15px;
+}
+.button3 {
+  margin: 5px;
+  background-color: #51829b;
+  color: white;
+  border-radius: 8px;
+  padding: 5px;
+  border-color: #51829b;
+  font-family: roboto;
+  font-size: 15px;
+}
